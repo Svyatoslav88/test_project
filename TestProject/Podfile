@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+
+pod 'SWTableViewCell', '~> 0.3.7'
+pod 'MBProgressHUD', '~> 0.5'
+pod 'AFNetworking', '~> 2.5.4'
